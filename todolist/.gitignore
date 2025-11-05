@@ -1,0 +1,33 @@
+# Cartella delle impostazioni utente di Visual Studio (ESSENZIALE)
+/.vs/
+
+# File di opzioni utente
+*.suo
+*.user
+
+# File di opzioni del compilatore C++
+*.vcxproj.filters
+
+# Output di Build (tutte le configurazioni)
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+Win32/
+
+# File di cache e database di IntelliSense
+ipch/
+*.sdf
+
+# File binari e di debug
+*.exe
+*.dll
+*.obj
+*.pdb
+*.ilk
+*.lib
+*.o
+
+# Log
+*.log
