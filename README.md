@@ -6,6 +6,10 @@ Un semplice gestore di Todo List da riga di comando scritto in C puro, come prog
 
 L'obiettivo è costruire un'applicazione console completa partendo da zero, seguendo le pratiche di un programmatore esperto, inclusa la definizione dei requisiti, la gestione delle priorità (MVP) e l'architettura del software.
 
+**Tutti i requisiti, le user stories e lo stato di avanzamento sono tracciati sulla nostra bacheca di Notion:**
+
+➡️ **[Link alla Pagina del Progetto su Notion](https://www.notion.so/Progetto-TODO-List-in-C-2a180b6e86de806b8ff1c331c75c041f?source=copy_link)**
+
 ## Come compilare
 
 Dato che stiamo usando Visual Studio Community:
